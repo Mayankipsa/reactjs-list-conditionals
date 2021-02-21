@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactjs-list-conditionals/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/reactjs-list-conditionals/static/js/main.7c1af90b.chunk.js",
+    "main.js.map": "/reactjs-list-conditionals/static/js/main.7c1af90b.chunk.js.map",
+    "runtime-main.js": "/reactjs-list-conditionals/static/js/runtime-main.5def8fdb.js",
+    "runtime-main.js.map": "/reactjs-list-conditionals/static/js/runtime-main.5def8fdb.js.map",
+    "static/js/2.88d1c77b.chunk.js": "/reactjs-list-conditionals/static/js/2.88d1c77b.chunk.js",
+    "static/js/2.88d1c77b.chunk.js.map": "/reactjs-list-conditionals/static/js/2.88d1c77b.chunk.js.map",
+    "static/js/3.5e0e038f.chunk.js": "/reactjs-list-conditionals/static/js/3.5e0e038f.chunk.js",
+    "static/js/3.5e0e038f.chunk.js.map": "/reactjs-list-conditionals/static/js/3.5e0e038f.chunk.js.map",
+    "index.html": "/reactjs-list-conditionals/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/reactjs-list-conditionals/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.88d1c77b.chunk.js.LICENSE.txt": "/reactjs-list-conditionals/static/js/2.88d1c77b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5def8fdb.js",
+    "static/js/2.88d1c77b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7c1af90b.chunk.js"
+  ]
+}
